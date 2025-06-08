@@ -26,5 +26,3 @@
 | SQL Server / SQLite   | Base de datos relacional               |
 | AutoMapper            | Mapeo de DTOs                          |
 | Swagger (Swashbuckle) | Documentación y prueba de endpoints    |
-
----
