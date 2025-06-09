@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADSO Proyect", "ADSO Proyect.csproj", "{9AC1BF0E-1273-4901-ADE0-D50B361A62A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC1BF0E-1273-4901-ADE0-D50B361A62A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC1BF0E-1273-4901-ADE0-D50B361A62A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC1BF0E-1273-4901-ADE0-D50B361A62A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC1BF0E-1273-4901-ADE0-D50B361A62A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8A727A1-B8CE-45B8-AAAC-6065B6039193}
+	EndGlobalSection
+EndGlobal
